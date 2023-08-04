@@ -1,0 +1,42 @@
+{
+    "tabs": {
+        "Graphics": "图像",
+        "Game": "游戏",
+        "Battle Setting": "战斗设置",
+        "Sound": "声音",
+        "View": "显示",
+        "Change Controls": "快捷键变更"
+    },
+    "Graphics": {
+        "Graphics Quality Setting": "图像质量设定",
+        "High": "高品质",
+        "Medium": "中品质",
+        "Low": "低品质",
+        "Brightness": "亮度",
+        "Resolution": "分辨率",
+        "Window-mode": "窗口模式",
+        "Effect": "特效",
+        "Cloud,inside Cloud Effect": "云彩, 水中效果",
+        "Reflection Effect": "反光特效",
+        "Bump Effect": "凹凸效果",
+        "Blood Effect [Require Re-login]": "血液特效 (需要重新启动客户端)",
+        "Screen Shake Effect": "画面震动效果",
+        "Smart Wrap": "智能传送显示",
+        "Bloom Effect": "泛光效果显示",
+        "Water Effect": "水中效果显示",
+        "Tile Reflection Effect": "",
+        "Bloom Effect Brightness": "泛光效果亮度",
+        "Trace Effect": "轨迹效果",
+        "N/A": "无",
+        "Character": "仅限当前角色",
+        "All": "所有角色",
+        "Shadow Effect": "阴影效果",
+        "Background FPS Limit (Minimized)": "背景最小帧数",
+        "Max FPS Limit": "最大帧数限制",
+        "Display shaking effect": "画面震动效果品质",
+        "Strong": "高品质",
+        "Weak": "低品质",
+        "Very Weak": "非常低品质"
+    }
+
+}
